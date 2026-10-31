@@ -27,3 +27,13 @@ Learn how to architect and deploy full-stack backend applications using Django a
 * Technologies I want to learn: Django 5, Django REST Framework, Swagger/OpenAPI, and CI/CD with GitHub Actions
 * Certifications: Completed Google Cybersecurity Professional Certificate; completed GED
 * Dream Job Position: Cybersecurity Engineer / Backend Developer
+
+**Semester Goals**
+* Learn Django
+* Learn REST API Development
+* Learn Cloud Deployment
+
+**Portfolio Projects**
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
